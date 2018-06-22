@@ -6,9 +6,11 @@
 如果发现任何问题，欢迎联系我：13572278564@163.com。
 ## 引入
 **添加另一个库**
+
 使用本库需要同时引入另外一个库：AutoFitDimenProcessor，地址为：https://github.com/ZhangMiao147/AutoFitDimenProcessor 。该库实现在编译时间生成不同分辨率下的dimens.xml文件，所以需要一起使用。
 
 **gradle**
+
 在工程的build.gradle中添加：
 ```
 	allprojects {
