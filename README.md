@@ -23,7 +23,7 @@
 在项目的build.gradle中引入库：
 ```
     compile 'com.github.ZhangMiao147:AutoFitDimen:0.1'
-    annotationProcessor 'com.github.ZhangMiao147:AutoFitDimenProcessor:0.1'
+    annotationProcessor 'com.github.ZhangMiao147:AutoFitDimenProcessor:0.4'
 ```
 
 ## 使用
